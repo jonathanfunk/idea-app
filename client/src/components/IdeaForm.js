@@ -63,7 +63,7 @@ class IdeaForm {
       </div>
       <div class="form-control">
         <label for="tag">Tag</label>
-        <input type="text" name="tag" id="tag" />
+        <input type="text" name="tag" id="tag"/>
       </div>
       <button class="btn" type="submit" id="submit">Submit</button>
     </form>
